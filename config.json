@@ -1,0 +1,19 @@
+[
+	{
+		"coin": "hotgame",
+		"accid": "rokbotsxyz.tg",
+		"Authorization": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1aWQiOjEwNTk4MzYsImRpZCI6NzU1NzExODgsImRldmljZSI6bnVsbCwiYWNjb3VudF9pZCI6ImNjb2dvbGkudGciLCJkZXZpY2VfaWQiOiJlZTRjZTlmOS1lNDBlLTQ1OTMtYmI4MC1iNzg0NGY3NTcwMDUiLCJwbGF0Zm9ybSI6InRlbGVncmFtIiwidGltZXN0YW1wIjoxNzIxMTU3NTE5LjAsInZpZXdfb25seSI6ZmFsc2V9.MPEiH0F3ByPg63Y2mNtmzB5VAC-53vMZ09bE_ukHCAM",
+		"init_data": "user=%7B%22id%22%3A6020456282%2C%22first_name%22%3A%22fdr%22%2C%22last_name%22%3A%22%22%2C%22username%22%3A%22ccogoli%22%2C%22language_code%22%3A%22en%22%2C%22allows_write_to_pm%22%3Atrue%7D&chat_instance=2347678083872405251&chat_type=sender&auth_date=1721157507&hash=5bf84f3b991487276a20fc4944a217c58c2fc79828528fc3479b762afa72aacb",
+		"type": "socks5"
+	},
+{
+		"coin": "cellcoin",
+		"Authorization": "user=%7B%22id%22%3A6020456282%2C%22first_name%22%3A%22fdr%22%2C%22last_name%22%3A%22%22%2C%22username%22%3A%22ccogoli%22%2C%22language_code%22%3A%22id%22%2C%22allows_write_to_pm%22%3Atrue%7D&chat_instance=1971526629961527551&chat_type=sender&auth_date=1721159009&hash=d109a373ab1861c33e4c3b9ce95cc42f474c07e5fc297ab265c23058c863cf11",
+		"type": "socks5"
+	},
+	{
+		"coin": "timefarm",
+		"init_data": "query_id=AAFa39hmAgAAAFrf2GYFuQhw&user=%7B%22id%22%3A6020456282%2C%22first_name%22%3A%22fdr%22%2C%22last_name%22%3A%22%22%2C%22username%22%3A%22ccogoli%22%2C%22language_code%22%3A%22id%22%2C%22allows_write_to_pm%22%3Atrue%7D&auth_date=1721158942&hash=096b1bba60c8f0469dc8da9b09d7df9fb3ee03ac67027db5b70535f4addbdc4a",
+		"type": "socks5"
+	}
+]
